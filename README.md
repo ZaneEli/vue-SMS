@@ -8,3 +8,5 @@ vue入门 找了一个项目视频看了一下
 
 安装方式：node.js->json-server->vue
 
+新增project-10 支持详情页面的excel导出  
+
